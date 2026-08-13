@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "products": [
+    {
+      "id": "hm",
+      "name": "MabiTools - Hotkey Manager",
+      "description": "Separate, reusable Mabinogi hotkey profiles",
+      "sourceRepository": "https://github.com/LOOKaUSERNAME/mabi-tools-hm",
+      "versioning": "commit-utc-calver",
+      "releaseAssetPolicy": "windows-installer",
+      "channels": {
+        "stable": "https://raw.githubusercontent.com/LOOKaUSERNAME/mabi-tools-releases/main/channels/hm/stable.json"
+      }
+    }
+  ]
+}
