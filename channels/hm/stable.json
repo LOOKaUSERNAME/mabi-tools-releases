@@ -2,24 +2,24 @@
     "schemaVersion":  1,
     "productId":  "hm",
     "channel":  "stable",
-    "updatedAt":  "2026-08-13T11:45:59Z",
-    "recordUrl":  "https://raw.githubusercontent.com/LOOKaUSERNAME/mabi-tools-releases/main/catalog/hm/releases/2026.8.13.json",
+    "updatedAt":  "2026-08-14T00:35:05Z",
+    "recordUrl":  "https://raw.githubusercontent.com/LOOKaUSERNAME/mabi-tools-releases/main/catalog/hm/releases/2026.8.14.json",
     "release":  {
-                    "version":  "2026.8.13",
-                    "centralTag":  "hm-v2026.8.13",
-                    "releaseUrl":  "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/tag/hm-v2026.8.13",
+                    "version":  "2026.8.14",
+                    "centralTag":  "hm-v2026.8.14",
+                    "releaseUrl":  "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/tag/hm-v2026.8.14",
                     "source":  {
                                    "repository":  "LOOKaUSERNAME/mabi-tools-hm",
-                                   "tag":  "v2026.8.13",
-                                   "commit":  "474fbb2b4429058ad76b27fe0bc67201e93bc419"
+                                   "tag":  "v2026.8.14",
+                                   "commit":  "3dd6ebb9f246d9ce59c968970ffa43fe11fdffbe"
                                },
                     "assets":  [
                                    {
                                        "role":  "installer",
-                                       "name":  "MabiTools-Hotkey-Manager-2026.8.13-Setup-x64.exe",
-                                       "size":  47084027,
-                                       "sha256":  "c8f3daf10401675a4b717112bb00456ba38034e1132e100b19823f916e5db061",
-                                       "downloadUrl":  "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/download/hm-v2026.8.13/MabiTools-Hotkey-Manager-2026.8.13-Setup-x64.exe"
+                                       "name":  "MabiTools-Hotkey-Manager-2026.8.14-Setup-x64.exe",
+                                       "size":  47078736,
+                                       "sha256":  "30a6d46517ff3815e193e18e10703a26e78bbe53c7e58f4c658e550a627c7642",
+                                       "downloadUrl":  "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/download/hm-v2026.8.14/MabiTools-Hotkey-Manager-2026.8.14-Setup-x64.exe"
                                    }
                                ]
                 }
