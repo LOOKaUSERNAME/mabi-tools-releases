@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "productId": "hm",
+  "version": "2026.10.07",
+  "channel": "stable",
+  "centralTag": "hm-v2026.10.07",
+  "releaseUrl": "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/tag/hm-v2026.10.07",
+  "cataloguedAt": "2026-10-07T11:27:53Z",
+  "source": {
+    "repository": "LOOKaUSERNAME/mabi-tools-hm",
+    "tag": "v2026.10.07",
+    "tagObject": "2d90fd06239ccede1b270ae6e681cb7c981e1854",
+    "commit": "66179b7267f824233a232ec54426de2c951ac7af",
+    "publishedAt": "2026-10-07T11:27:13Z",
+    "releaseUrl": "https://github.com/LOOKaUSERNAME/mabi-tools-hm/releases/tag/v2026.10.07"
+  },
+  "assets": [
+    {
+      "role": "installer",
+      "name": "MabiTools-Hotkey-Manager-2026.10.07-Setup-x64.exe",
+      "size": 47100218,
+      "sha256": "0408d42f942c34707ad56afb85ddb5b38deb1b9a1ce6b94f5b000b8d3c7a0952",
+      "downloadUrl": "https://github.com/LOOKaUSERNAME/mabi-tools-releases/releases/download/hm-v2026.10.07/MabiTools-Hotkey-Manager-2026.10.07-Setup-x64.exe"
+    }
+  ]
+}
